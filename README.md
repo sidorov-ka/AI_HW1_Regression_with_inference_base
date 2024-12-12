@@ -2,20 +2,21 @@
 Homeork for ML
 
 В результате данной работы удалось разработать сервис, который на вход получает данные в формате json (для примера), ---><br/>
-{<br/>
-  ⋅⋅"name": "Maruti Wagon R LXI",<br/>
-  ⋅⋅"year": 2010,<br/>
-  ⋅⋅"km_driven": 40000,<br/>
-  ⋅⋅"fuel": "Petrol",<br/>
-  ⋅⋅"seller_type": "Individual",<br/>
-  ⋅⋅"transmission": "Manual",<br/>
-  ⋅⋅"owner": "First Owner",<br/>
-  ⋅⋅"mileage": "15.0 kmpl",<br/>
-  ⋅⋅"engine": "1496 CC",<br/>
-  ⋅⋅"max_power": "100 bhp",<br/>
-  ⋅⋅"torque": "136 Nm",<br/>
-  ⋅⋅"seats": 5<br/>
-}<br/>
+```{<br/>
+  "name": "Maruti Wagon R LXI",
+  "year": 2010,
+  "km_driven": 40000,
+  "fuel": "Petrol",
+  "seller_type": "Individual",
+  "transmission": "Manual",
+  "owner": "First Owner",
+  "mileage": "15.0 kmpl",
+  "engine": "1496 CC",
+  "max_power": "100 bhp",
+  "torque": "136 Nm",
+  "seats": 5
+}
+```
 ![image](https://github.com/user-attachments/assets/c22e06a0-5036-47b3-a91b-3fc183388892)
 
 На выходе мы получаем предсказанную цену:
