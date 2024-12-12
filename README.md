@@ -3,18 +3,18 @@ Homeork for ML
 
 В результате данной работы удалось разработать сервис, который на вход получает данные в формате json (для примера), --->
 {<br/>
-  "name": "Maruti Wagon R LXI",<br/>
-  "year": 2010,<br/>
-  "km_driven": 40000,<br/>
-  "fuel": "Petrol",<br/>
-  "seller_type": "Individual",<br/>
-  "transmission": "Manual",<br/>
-  "owner": "First Owner",<br/>
-  "mileage": "15.0 kmpl",<br/>
-  "engine": "1496 CC",<br/>
-  "max_power": "100 bhp",<br/>
-  "torque": "136 Nm",<br/>
-  "seats": 5<br/>
+  ⋅⋅"name": "Maruti Wagon R LXI",<br/>
+  ⋅⋅"year": 2010,<br/>
+  ⋅⋅"km_driven": 40000,<br/>
+  ⋅⋅"fuel": "Petrol",<br/>
+  ⋅⋅"seller_type": "Individual",<br/>
+  ⋅⋅"transmission": "Manual",<br/>
+  ⋅⋅"owner": "First Owner",<br/>
+  ⋅⋅"mileage": "15.0 kmpl",<br/>
+  ⋅⋅"engine": "1496 CC",<br/>
+  ⋅⋅"max_power": "100 bhp",<br/>
+  ⋅⋅"torque": "136 Nm",<br/>
+  ⋅⋅"seats": 5<br/>
 }<br/>
 ![image](https://github.com/user-attachments/assets/c22e06a0-5036-47b3-a91b-3fc183388892)
 
